@@ -2,10 +2,10 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TallerPhonegap</name>
     <description>
-       Taller de Phonegap-desarrollo de app moviles
+        TallerPhonegap
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        Julian gonzalez Cifuentes
+        Julian gonzalez Cifuentes -1456057
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
